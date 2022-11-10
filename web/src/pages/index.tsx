@@ -100,8 +100,6 @@ export default function Home(props: HomeProps) {
   )
 }
 
-
-
 export const getServerSideProps = async () => {
   const [poolCountResponse, guessCountResponse, userCountResponse] =  await Promise.all([
     api.get('pools/count'),
