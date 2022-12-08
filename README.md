@@ -12,7 +12,6 @@ Aplicação para participar de bolões da Copa do Mundo 2022.
 * Next Js
 * TailwindCSS
 * TypeScript
-* Next.Js
 * Fastify
 * Prisma 
 
